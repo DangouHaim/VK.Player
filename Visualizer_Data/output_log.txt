@@ -1,0 +1,45 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6250 Graphics (ID=0x9804)
+    Vendor:   ATI
+    VRAM:     373 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  2.679 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Visual Studio 2013\Projects\VK.Player\VK.Player\bin\Release\Visualizer_Data\Managed\System.dll (this message is harmless)
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 1 worker threads for Enlighten.
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+  Thread -> id: 360 -> priority: 1 

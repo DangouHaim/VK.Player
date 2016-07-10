@@ -1,0 +1,32 @@
+[0627/105350:INFO:(0)] WebCore is now online.
+[0627/105350:INFO:(0)] Running Awesomium 1.7.5.1
+[0627/105503:INFO:(0)] WebCore is now online.
+[0627/105503:INFO:(0)] Running Awesomium 1.7.5.1
+[0627/105604:INFO:(0)] WebCore is now online.
+[0627/105604:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/001754:INFO:(0)] WebCore is now online.
+[0629/001754:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/001849:INFO:(0)] WebCore is now online.
+[0629/001849:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/092503:INFO:(0)] WebCore is now online.
+[0629/092503:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/092945:INFO:(0)] WebCore is now online.
+[0629/092945:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093004:ERROR:ipc_channel_win.cc(326)] pipe error: 109
+[0629/093115:INFO:(0)] WebCore is now online.
+[0629/093115:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093251:INFO:(0)] WebCore is now online.
+[0629/093251:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093317:INFO:(0)] WebCore is now online.
+[0629/093317:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093349:INFO:(0)] WebCore is now online.
+[0629/093349:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093419:INFO:(0)] WebCore is now online.
+[0629/093419:INFO:(0)] Running Awesomium 1.7.5.1
+[0629/093424:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0629/093424:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0629/093424:ERROR:backend_impl.cc(264)] Unable to create cache
+[0710/010604:INFO:(0)] WebCore is now online.
+[0710/010604:INFO:(0)] Running Awesomium 1.7.5.1
+[0710/010613:ERROR:cookie_monster.cc(1617)] Found 1 duplicate cookies for host='vk.com', with {name='remixlang', domain='.vk.com', path='/'}
+[0710/010613:ERROR:cookie_monster.cc(1617)] Found 1 duplicate cookies for host='vk.com', with {name='remixlhk', domain='.vk.com', path='/'}
